@@ -1,0 +1,8 @@
+name,age,location
+#include <stdio.h>
+int main() 
+{
+    printf("name is tamann\n");
+    printf("age is 19\n");
+    printf("location is hiriyur\n");
+}
